@@ -1,0 +1,24 @@
+{
+    "id": 1,
+    "name": "LevelName",
+    "author": "LevelPublisher",
+    "creators": [],
+    "verifier": "LevelVerifier",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "l1ghtning", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "POKEMON GD",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
