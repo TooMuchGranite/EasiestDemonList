@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "18elip",
+    "author": "LevelPublisher",
+    "creators": [],
+    "verifier": "LevelVerifier",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "l1ghtning", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
